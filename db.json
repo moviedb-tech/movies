@@ -1,8 +1,94 @@
 {
   "posts": [
     {
-      "id": -1,
-      "title": "hello world"
+      "id": 1,
+      "name": "The Mechanic",
+      "img": "the-mechanic.jpeg",
+      "description": "Statham stars as Arthur Bishop, a professional assassin who specializes in making his hits look like accidents, suicides, or the acts of petty criminals.",
+      "year": 2010,
+      "genres": [
+        "action",
+        "crime",
+        "USA"
+      ],
+      "director": "Simon West",
+      "starring": [
+        "Jason Statham",
+        "Ben Foster",
+        "Donald Sutherland",
+        "Tony Goldwyn"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Three Billboards Outside Ebbing, Missouri",
+      "img": "three-billboards-outside-ebbing-missouri.jpg",
+      "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+      "year": 2017,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Martin McDonagh",
+      "starring": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Matrix",
+      "img": "the-matrix.jpg",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Lana Wachowski",
+      "starring": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Interstellar",
+      "img": "interstellar.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "year": 2014,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "starring": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Expendables",
+      "img": "the-expendables.jpg",
+      "description": "A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.",
+      "year": 2010,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "director": "Sylvester Stallone",
+      "starring": [
+        "Sylvester Stallone",
+        "Jason Statham",
+        "Jet Li"
+      ]
     }
   ],
   "profile": {
