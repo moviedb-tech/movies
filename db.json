@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "The Mechanic",
-      "img": "the-mechanic.jpeg",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/5147KKVUmkL._SX342_.jpg",
       "description": "Statham stars as Arthur Bishop, a professional assassin who specializes in making his hits look like accidents, suicides, or the acts of petty criminals.",
       "year": 2010,
       "genres": [
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "name": "Three Billboards Outside Ebbing, Missouri",
-      "img": "three-billboards-outside-ebbing-missouri.jpg",
+      "img": "https://i0.wp.com/studentnewspaper.org/wp-content/uploads/2018/01/restrictions-apply-00-3b-00950..jpg?resize=938%2C535&ssl=1",
       "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
       "year": 2017,
       "genres": [
@@ -40,7 +40,7 @@
     {
       "id": 3,
       "name": "The Matrix",
-      "img": "the-matrix.jpg",
+      "img": "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/assets/v3/editorial/9/1b/91b8775d-f35a-5f99-a3d1-9cb36d97279e/5c48d82b6bfb7.image.jpg?resize=400%2C618",
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
       "year": 1999,
       "genres": [
@@ -57,7 +57,7 @@
     {
       "id": 4,
       "name": "Interstellar",
-      "img": "interstellar.jpg",
+      "img": "https://cdn7.antedote.com/wp-content/uploads/2014/12/interstellar-poster.jpg",
       "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "year": 2014,
       "genres": [
@@ -75,7 +75,7 @@
     {
       "id": 5,
       "name": "The Expendables",
-      "img": "the-expendables.jpg",
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Video49/v4/c7/eb/a2/c7eba221-510f-c3bf-2775-71c388110c1b/pr_source.lsr/268x0w.png",
       "description": "A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.",
       "year": 2010,
       "genres": [
