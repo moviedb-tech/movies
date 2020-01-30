@@ -89,6 +89,61 @@
         "Jason Statham",
         "Jet Li"
       ]
+    },
+    {
+      "id": 6,
+      "name": "Once Upon a Time in Hollywood",
+      "img": "https://vinyla.com/files/products/various-artists-quentin-tarantinos-once-upon-a-time-in-hollywood.1280x1280.jpg?4c6eb144294b125cd575a94eb91afcd0",
+      "description": "A faded television actor (Leonardo DiCaprio) and his longtime stunt double (Brad Pitt) strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+      "year": 2019,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Quentin Tarantino",
+      "starring": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ford v Ferrari",
+      "img": "https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg",
+      "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference, the laws of physics and their own personal demons to build a revolutionary race car for Ford and challenge Ferrari at the 24 Hours of Le Mans in 1966.",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport",
+        "Biography"
+      ],
+      "director": "James Mangold",
+      "starring": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Joker",
+      "img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "year": 2019,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Todd Phillips",
+      "starring": [
+        "Joaquin Phoenix", 
+        "Robert De Niro",
+        "Zazie Beetz"
+      ]
     }
   ],
   "profile": {
