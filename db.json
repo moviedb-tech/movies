@@ -144,6 +144,43 @@
         "Robert De Niro",
         "Zazie Beetz"
       ]
+    },
+    {
+      "id": 9,
+      "name": "Bad Boys for Life",
+      "img": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "description": "The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life.",
+      "year": 2020,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Adil El Arbi",
+      "starring": [
+        "Will Smith",
+        "Martin Lawrence",
+        "Vanessa Hudgens"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "John Wick: Chapter 3 - Parabellum ",
+      "img": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,648,1000_AL_.jpg",
+      "description": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Chad Stahelski",
+      "starring": [
+        "Keanu Reeves",
+        "Halle Berry",
+        "Ian McShane"
+      ]
     }
   ],
   "profile": {
